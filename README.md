@@ -1,4 +1,4 @@
-# Pima Indian Diabetes Classification Case Study
+# Pima Indian Diabetes Classification 
 
 ## Overview
 
